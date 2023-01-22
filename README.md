@@ -21,7 +21,7 @@ this.session = new Session("localhost", 3306, "CoinAPI", "root", "password", tru
 
 ```text
 The MIT License (MIT)
-Copyright (c) 2022 Moritz Selz
+Copyright (c) 2022 themxritz
  
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and
 associated documentation files (the "Software"), to deal in the Software without restriction,
