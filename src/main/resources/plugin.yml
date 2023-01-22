@@ -1,0 +1,3 @@
+name: CoinAPI
+version: ${project.version}
+main: de.mxritz.coinapi.CoinAPI
